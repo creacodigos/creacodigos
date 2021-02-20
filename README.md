@@ -1,5 +1,5 @@
 ## Hola! Soy Jorge Santana 👋
-### Full Stack Developer & PizzaBurger Maker 🍕🍔
+### Full Stack Developer & PizzaBurger Maker 🖥️ 🍕 🍔
 
 Me dedico al desarrollo web como **Full Stack**. Tengo más de 10 años de experiencia haciendo webs y aplicaciones bonitas, usables y seguras.
 Actualmente trabajo para **Adventurees**, en el proyecto [TokenCity.com](https://token-city.com)
