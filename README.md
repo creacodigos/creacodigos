@@ -5,8 +5,8 @@ Me dedico al desarrollo web como **Full Stack**. Tengo más de 10 años de exper
 Actualmente trabajo para **Adventurees**, en el proyecto [TokenCity.com](https://token-city.com)
 
 
-- 🔭 Actualemte trabajo con `Nuxt.js` sobre `Vue.js` para el frontend en JavaScrit y `Yii2` para el backend en php.
-- 🌱 Me apasiona el mundo del diseño, las cosas usables y bonitas y las apis seguras.
+- 🔭  Actualemte trabajo con `Nuxt.js` sobre `Vue.js` para el frontend en JavaScrit y `Yii2` para el backend en php.
+- 🌱  Me apasiona el mundo del diseño, las cosas usables y bonitas y las apis seguras.
 
 ### Puedes encontrarme en:
 ---------------
