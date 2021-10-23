@@ -4,7 +4,7 @@
 Me dedico al desarrollo web como **Full Stack**. Tengo más de 10 años de experiencia haciendo webs y aplicaciones bonitas, usables y seguras.
 
 - 🔭  Actualemte trabajo con `Nuxt.js` sobre `Vue.js` para el frontend en JavaScript y `Yii2` para el backend en php.
-- 🌱  Me apasiona el mundo del diseño, las cosas usables y bonitas y las apis seguras.
+- 🌱  Me apasiona el mundo del diseño, las cosas usables, bonitas y seguras.
 - 🔬  Me interesa el código limpio, la experiencia de usuario, el despliegue contínuo y el testeo de aplicaciones.
 - 🎸  A parte de todo esto, soy un ruidópata empedernido. 👽
 
