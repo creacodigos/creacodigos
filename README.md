@@ -15,9 +15,9 @@ Me dedico al desarrollo web como **Full Stack**. Tengo más de 10 años de exper
 - [Linkedin](https://www.linkedin.com/in/jorgesantanarodriguez/)
 - 
 ### Mis datos:
-![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=creacodigos&hide=contribs,prs&show_icons=true) 
+![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=creacodigos&hide=contribs,prs&show_icons=true&locale=es) 
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=creacodigos)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=creacodigos&locale=es)
 
-[Aquí les dejo como obtener estos datos estadísticos (https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md)
+[Aquí les dejo como obtener estos datos estadísticos](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md)
 
