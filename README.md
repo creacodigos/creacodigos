@@ -17,5 +17,7 @@ Me dedico al desarrollo web como **Full Stack**. Tengo más de 10 años de exper
 ### Mis datos:
 ![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=creacodigos&hide=contribs,prs&show_icons=true) 
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=creacodigos&layout=compact)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=creacodigos)
+
+[Aquí les dejo como obtener estos datos estadísticos (https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md)
 
