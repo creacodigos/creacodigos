@@ -13,3 +13,9 @@ Me dedico al desarrollo web como **Full Stack**. Tengo más de 10 años de exper
 - Mi web personal: [creacodigos.com](http://creacodigos.com)
 - Mi proyecto personal [Portal de músicos canarios: muscana.com](https://muscana.com)
 - [Linkedin](https://www.linkedin.com/in/jorgesantanarodriguez/)
+- 
+### Mis datos:
+![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=creacodigos&hide=contribs,prs&show_icons=true) 
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=creacodigos&layout=compact)
+
